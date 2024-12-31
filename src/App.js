@@ -1,6 +1,6 @@
 import "./App.css";
 import { BrowserRouter as Router, Route, Routes } from "react-router-dom";
-import React, {useState} from "react";
+import React from "react";
 import Navbar from "./components/Navbar";
 import Home from "./components/Home";
 import Team from "./components/Team";
@@ -8,14 +8,8 @@ import Newsletter from "./components/Newsletter";
 import Magazine from "./components/Magazine";
 import ContactForm from "./components/Contact";
 import Events from "./components/Events";
-import CardPopup from "./CardPopup";
+
 function App() {
-  const [showPopup, setShowPopup] = useState(true); // Manage popup visibility
-
-  const handleClosePopup = () => {
-    setShowPopup(false); // Close the popup when triggered
-  };
-
   return (
     <div className="App">
       <Router>
@@ -31,9 +25,9 @@ function App() {
           </Routes>
         </div>
       </Router>
-      {showPopup && <CardPopup onClose={handleClosePopup}/>}
     </div>
   );
 }
 
 export default App;
+
