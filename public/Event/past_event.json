@@ -3,6 +3,60 @@
     "status": "Past events"
   },
   {
+    "name": "Innoverse HackFest - Hackathon",
+    "reg_link": "https://innoverse.acespvgcoet.in/",
+    "img": "Assets\\events\\InnoverseHackFest.jpg",
+    "isRegOpen": true
+  },
+  {
+    "name": "Genesis",
+    "reg_link": "",
+    "img": "Assets\\events\\Genesis_2025.jpg",
+    "isRegOpen": true
+  },
+  {
+    "name": "Web Edition",
+    "reg_link": "",
+    "img": "Assets\\events\\WebEdition.png",
+    "isRegOpen": true
+  },
+  {
+    "name": "Server Session",
+    "reg_link": "",
+    "img": "Assets\\events\\ServerFoundation.jpg",
+    "isRegOpen": true
+  },
+  {
+    "name": "Code Mode",
+    "reg_link": "",
+    "img": "Assets\\events\\CodeMode.jpg",
+    "isRegOpen": true
+  },
+  {
+    "name": "Tech Trivia",
+    "reg_link": "",
+    "img": "Assets\\events\\DNP_ACES.png",
+    "isRegOpen": true
+  },
+  {
+    "name": "Diwali Fiesta",
+    "reg_link": "",
+    "img": "Assets\\events\\DiwaliFiesta.jpg",
+    "isRegOpen": true
+  },
+  {
+    "name": "Picture Perfect",
+    "reg_link": "https://docs.google.com/forms/d/e/1FAIpQLSdtoWZ70J-oajLwSCSM3cbl8HABcNwaoYL8AvyKKiRVFMwaaA/viewform",
+    "img": "Assets\\events\\Picture Perfect.png",
+    "isRegOpen": true
+  },
+  {
+    "name": "Inaugration",
+    "reg_link": "",
+    "img": "Assets\\events\\Inauguration.jpg",
+    "isRegOpen": true
+  },
+  {
     "name": "Algorythm",
     "reg_link": "#",
     "img": "Assets\\events\\algorythm.jpeg",
